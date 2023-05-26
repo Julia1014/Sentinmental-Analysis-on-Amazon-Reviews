@@ -1,5 +1,5 @@
 # Sentinmental-Analysis-on-Amazon-Reviews
-Welcome! In this project, I pre-process the Amazon review data, tokenize and use Natural Language Processing to analyze the emotions found in Amazon Reviews.
+Welcome! In this sentimental analysis project, I created a basic algorithm that can analyze a given Amazon Review text and display a graph which counts the emotions displayed in the review. In terms of the technical process, I pre-processed the Amazon review data, tokenized and used Natural Language Processing to analyze the emotions found in Amazon Reviews. The toughest challenge was finding the right models and making sure the algorithm and data visualizations were accurate. 
 
 ## Instructions
 1. download main.py, emotions.txt, read.txt
